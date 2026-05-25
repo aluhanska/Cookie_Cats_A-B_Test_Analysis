@@ -83,7 +83,7 @@
 ## 🚀 Запуск
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/cookie-cats-ab-test.git
+git clone https://github.com/aluhanska/cookie-cats-ab-test.git
 cd cookie-cats-ab-test
 pip install pandas scipy statsmodels seaborn matplotlib
 jupyter notebook cookie_cats_ab_test_analysis.ipynb
